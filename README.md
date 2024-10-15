@@ -1,4 +1,12 @@
 # Introducing SignBOT by NexusAI
 > **Imagine a world without communication barriers between the deaf and the hearing**.
 
-At NexusAI, we strive to address the communication barriers between the hard-of-hearing individuals and those unfamiliar with sign language.
+At NexusAI, we strive to address the communication barriers between the hard-of-hearing individuals and those unfamiliar with sign language. We have developed 3 distinct operating features of our application, which is as follows:
+
+## Sign-to-Text Translation
+Utilizing OpenCV, TensorFlow Object Detection API, LabelImg, Pre-Trained SSD MobileNet v2 (Transfer Learning), our team developed a Computer Vision-based model that detects hand signals in real-time and converts them to its text equivalence. The current model is trained on a self-engineered dataset consisting of 20 labelled images and 8 testing images for each of hand signals provided. 
+
+## Text-to-Sign Translation
+
+## Chatbot
+
