@@ -26,6 +26,6 @@ Our team made use of OpenCV, Speech Recognition and Natural Language Toolkit to 
 Using Unsloth, we finetuned Llama-3.1 8b model to create a chatbot feature to help users. It specializes in informations about deafness, the deaf community, ASL, and application guide. It is mainly to assist the user to get more comfortable with the app.
 
 *Run Instructions*
-1. As we use Google Colab T4 GPU, instead of running the Jupyter Notebook here, click the link here: <a href=https://colab.research.google.com/drive/1CIFQQkIGt4aEaCYqOGDwF7tKZ0kVCu-u#scrollTo=yHR5cYjMAG5W> Finetuning Notebook </a>
+1. As we use Google Colab T4 GPU, instead of running the Jupyter Notebook here, click the link here: [Finetuning Notebook](https://colab.research.google.com/drive/1CIFQQkIGt4aEaCYqOGDwF7tKZ0kVCu-u#scrollTo=yHR5cYjMAG5W)
 2. Run all the cell of codes until you reach the cell after training.
 3. Test the model in the cell for prompting. Enter your instructions/questions/requests in the "" for instruction. There's a comment showing where it is.
