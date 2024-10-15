@@ -13,6 +13,14 @@ Utilizing OpenCV, TensorFlow Object Detection API, LabelImg, Pre-Trained SSD Mob
 4. run ```export PYTHONPATH=$PYTHONPATH:$PWD```
 
 ## Text-to-Sign Translation
+Our team made use of OpenCV, Speech Recognition and Natural Language Toolkit to convert text and speech input from the user and output a visual sequence of movements corresponding to the appropriate American Sign Language gesture in the form of a rendered avatar.
+
+*Run Instructions*
+1. Make sure both ```Text-to-Sign.ipynb``` and ```assets``` are in the same directory
+2. Execute the first cell of the notebook to install necessary modules
+3. When prompted, enter ```S``` for speech and ```T``` for text that you would like to be translated
+4. For speech, simply say your sentence when ```"Speak Now..."``` is on the screen, the recording will stop once  ```"Converting Speech to Text..."``` appears and the corresponding sentence will be shown.
+5. For text, simply enter the sentence in the prompted area
 
 ## Chatbot
 
