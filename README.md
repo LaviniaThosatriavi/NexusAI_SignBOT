@@ -17,7 +17,7 @@ Our team made use of OpenCV, Speech Recognition and Natural Language Toolkit to 
 
 *Run Instructions*
 1. Make sure both ```Text-to-Sign.ipynb``` and ```assets``` are in the same directory
-2. Execute the first cell of the notebook to install necessary modules
+2. Run all the cells of the notebook. The first cell will download the necessary libraries
 3. When prompted, enter ```S``` for speech and ```T``` for text that you would like to be translated
 4. For speech, simply say your sentence when ```"Speak Now..."``` is on the screen, the recording will stop once  ```"Converting Speech to Text..."``` appears and the corresponding sentence will be shown.
 5. For text, simply enter the sentence in the prompted area
