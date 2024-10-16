@@ -11,6 +11,8 @@ Utilizing OpenCV, TensorFlow Object Detection API, LabelImg, Pre-Trained SSD Mob
 2. run ```source venv/bin/activate``` on terminal
 3. Navigate to the Tensorflow/models directory
 4. run ```export PYTHONPATH=$PYTHONPATH:$PWD```
+5. Navigate back to the original directory
+6. run ```jupyter lab```
 
 ## Text-to-Sign Translation
 Our team made use of OpenCV, Speech Recognition and Natural Language Toolkit to convert text and speech input from the user and output a visual sequence of movements corresponding to the appropriate American Sign Language gesture in the form of a rendered avatar.
